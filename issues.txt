@@ -2,3 +2,4 @@ index page is ok
 register.php seems to work
 login.php - showing 1	0.0003	247520	{main}( )	...\login.php:0
                     Username or password incorrect
+admin panel nothing works
